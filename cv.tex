@@ -1,0 +1,103 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+\moderncvtheme[grey]{classic}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[scale=0.8]{geometry}
+
+\AtBeginDocument{\recomputelengths}
+
+%%
+%% personal data
+%%
+\firstname{Jonns}
+\familyname{Mostovoys}
+
+%\mobile{+37529-1822764}
+\homepage{http://memorici.de}
+\photo[64pt]{jm.png}
+
+% to show numerical labels in the bibliography; only useful if you make citations in your resume
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+
+%\nopagenumbers{} % uncomment to suppress automatic page numbering for CVs longer than one page
+%----------------------------------------------------------------------------------
+
+\begin{document}
+\maketitle
+
+\section{Most used development tools}
+\cvcomputer{Languages}{C++, Erlang, F\#, Shell}{}{}
+\cvcomputer{Op. systems}{Arch Linux, Windows 7, FreeBSD}{}{}
+\cvcomputer{Documentation}{Edoc, Org-mode, Twiki, \LaTeX}{}{}
+\cvcomputer{Build systems}{CMake, GNU Make, rebar}{}{}
+\cvcomputer{SCM}{Git, Mercurial, SVN}{}{}
+\cvcomputer{IDE}{VIM, Eclipse}{}{}
+\cvcomputer{WM}{Awesome}{}{}
+
+\section{Languages}
+%\cvlanguage{Russian}{Excellent}{}
+\cvlanguage{Russian}{Mother Tongue}{}
+\cvlanguage{English}{Fluent}{}
+\cvlanguage{Latvian}{Intermediate}{}
+
+\section{Work experience}
+
+\cventry{2007--2008}{Software Engineer}{VeryPositive Software}{Riga}{}{Professionali.ru.{}%
+\begin{itemize}%
+\item Built in PHP/MySQL
+\item High load system architecture and optimization
+\item Statistical data algorithms
+\item Sphynx indexing
+\end{itemize}}
+
+\cventry{2008--2009}{Software Engineer}{VeryPositive Software}{Riga}{}{KS Storage Management system.{}%
+\begin{itemize}%
+\item ERP/Accounting solution
+\item Component-based architecture
+\end{itemize}}
+
+\cventry{2009--2011}{Software Engineer}{DSW}{Riga}{}{Banking systems.{}%
+\begin{itemize}%
+\item Built in C\#.NET with extensive use of T-SQL
+\item High load system operating on big data
+\item Interconnection with legacy systems
+\item Design and implementation of complex algorithms in stored procedures
+\end{itemize}}
+
+\cventry{2011--2012}{Software Engineer}{VeryPositive}{Riga}{}{Android programming.}
+\cventry{2011--2012}{Software Engineer}{VeryPositive}{Riga}{}{Erlang programming.}
+
+\section{Recent individual projects (2012)}
+\cvline{Otpduler-Enterprise}{Task scheduler for managing tasks of high computing complexity 
+on clusters of CUDA GPUs. Built in Erlang/OTP, is fault-tolerant and network topology
+independent. Supports virtual clusters.}
+\cvline{Awesome-News}{Open source cloud notification engine built in Erlang/OTP. 
+Zero-configuration, extendible in any programming language, network topology independent 
+and fits UNIX pipelining.}
+
+\section{Recent competitions (2012)}
+\cvline{Spawnfest}{Team HINT, place yet unknown.}
+\cvline{ICFPC}{Team TBD, top 5 (after two rounds of competition).}
+
+\section{Education}
+\cventry{2008}{Secondary School of Riga \#22}{Riga}{}{}{}
+
+\section{Interests}
+\cvline{Programming}{\small \url{http://github.com/manpages}}
+\cvline{Math and CS}{Founder of ''M/CS Student Club of Riga''}
+\cvline{Music}{Progressive rock, Art rock}
+\cvline{Sports}{\small Hockey (NHL), StarCraft II (GSL, IPL)}
+
+\section{Personal information}
+\cvline{Age}{22}
+\cvline{Marital status}{single}
+
+\end{document}
