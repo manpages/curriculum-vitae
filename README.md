@@ -58,7 +58,7 @@ independent. Supports virtual clusters.
 ### Awesome-News ###
 Open source cloud notification engine built in Erlang/OTP. 
 Zero-configuration, extendible in any programming language, network topology independent 
-and fits UNIX pipelining.
+solution that fits UNIX pipelining.
 
 ## Recent competitions (2012) ##
 
