@@ -26,6 +26,7 @@ Home page: http://memorici.de
   - Performing Java and Android programming duties
 
 ### **2011 → 2012**: Software Engineer for VeryPositive, Riga ### 
+
   - Performing Erlang programming duties
 
 ### **2009 → 2011**: Software Engineer at DSW, Riga for Banking systems ###
