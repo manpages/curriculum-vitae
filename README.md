@@ -6,6 +6,7 @@ Home page: http://memorici.de
 ## Most used development tools ##
 
   - Languages: C++, Erlang, Python, JS, Java, Sh
+  - Data Storages: PgSQL, Fission, Riak, Mnesia
   - Operating systems: Arch Linux, FreeBSD
   - Documentation: Edoc, Org-mode, Twiki, LaTeX
   - Build systems: CMake, GNU Make, Rebar, Ant
