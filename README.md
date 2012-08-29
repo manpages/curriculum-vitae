@@ -5,19 +5,19 @@ Home page: http://memorici.de
 
 ## Most used development tools ##
 
-Languages: C++, Erlang, Python, JS, Java, Sh
-Operating systems: Arch Linux, FreeBSD
-Documentation: Edoc, Org-mode, Twiki, LaTeX
-Build systems: CMake, GNU Make, rebar
-RCS: Git, Mercurial, SVN
-IDE: VIM, Eclipse, Sublime Text 2
-WM: Awesome
+  - Languages: C++, Erlang, Python, JS, Java, Sh
+  - Operating systems: Arch Linux, FreeBSD
+  - Documentation: Edoc, Org-mode, Twiki, LaTeX
+  - Build systems: CMake, GNU Make, rebar
+  - RCS: Git, Mercurial, SVN
+  - IDE: VIM, Eclipse, Sublime Text 2
+  - WM: Awesome
 
 ## Languages ##
 
-Russian: Mother Tongue
-English: Fluent
-Latvian: Intermediate
+  - Russian: Mother Tongue
+  - English: Fluent
+  - Latvian: Intermediate
 
 ## Work experience ##
 
@@ -75,11 +75,11 @@ Team HINT, place yet unknown.}
 2008: Secondary School of Riga #22, Riga
 
 ## Interests ##
-  - Programming → http://github.com/manpages
-  - Math and CS → Founder of M/CS Student Club of Riga
-  - Music → Progressive rock, Art rock
-  - Sports → Hockey (NHL), StarCraft II (GSL, IPL)
+  - Programming: http://github.com/manpages
+  - Math and CS: Founder of M/CS Student Club of Riga
+  - Music: Progressive rock, Art rock
+  - Sports: Hockey (NHL), StarCraft II (GSL, IPL)
 
 ## Personal information ##
-  - Age → 22
-  - Marital status → single
+  - Age: 22
+  - Marital status: single
