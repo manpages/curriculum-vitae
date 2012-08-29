@@ -76,7 +76,7 @@ Team HINT, place yet unknown.}
 
 ## Education ##
 
-2008: Secondary School of Riga #22, Riga
+2008: Secondary School of Riga #22
 
 ## Interests ##
   - Programming: http://github.com/manpages
