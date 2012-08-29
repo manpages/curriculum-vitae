@@ -72,7 +72,7 @@ Team TBD, top 5 (after two rounds of competition).
 
 ### Spawnfest ###
 
-Team HINT, place yet unknown.}
+Team HINT, place yet unknown.
 
 ## Education ##
 
