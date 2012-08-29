@@ -21,17 +21,12 @@ Home page: http://memorici.de
 
 ## Work experience ##
 
-### **2007--2008**: Software Engineer at VeryPositive Software, Riga for Professionali.ru ###
+### **2011--2012**: Software Engineer for VeryPositive, Riga ###
 
-  - Built in PHP/MySQL
-  - High load system architecture and optimization
-  - Statistical data algorithms
-  - Sphinx indexing
+  - Performing Java and Android programming duties
 
-### **2008--2009**: Software Engineer at VeryPositive Software, Riga for KS Storage Management system ###
-
-  - ERP/Accounting solution
-  - Component-based architecture
+### **2011--2012**: Software Engineer for VeryPositive, Riga ### 
+  - Performing Erlang programming duties
 
 ### **2009--2011**: Software Engineer at DSW, Riga for Banking systems ###
 
@@ -40,12 +35,17 @@ Home page: http://memorici.de
   - Interconnection with legacy systems
   - Design and implementation of complex algorithms in stored procedures
 
-### **2011--2012**: Software Engineer for VeryPositive, Riga ###
+### **2008--2009**: Software Engineer at VeryPositive Software, Riga for KS Storage Management system ###
 
-  - Performing Java and Android programming duties
+  - ERP/Accounting solution
+  - Component-based architecture
 
-### **2011--2012**: Software Engineer for VeryPositive, Riga ### 
-  - Performing Erlang programming duties
+### **2007--2008**: Software Engineer at VeryPositive Software, Riga for Professionali.ru ###
+
+  - Built in PHP/MySQL
+  - High load system architecture and optimization
+  - Statistical data algorithms
+  - Sphinx indexing
 
 ## Recent individual projects (2012) ##
 
