@@ -8,7 +8,7 @@ Home page: http://memorici.de
   - Languages: C++, Erlang, Python, JS, Java, Sh
   - Operating systems: Arch Linux, FreeBSD
   - Documentation: Edoc, Org-mode, Twiki, LaTeX
-  - Build systems: CMake, GNU Make, rebar
+  - Build systems: CMake, GNU Make, Rebar, Ant
   - RCS: Git, Mercurial, SVN
   - IDE: VIM, Eclipse, Sublime Text 2
   - WM: Awesome
