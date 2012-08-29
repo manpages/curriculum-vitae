@@ -21,26 +21,26 @@ Home page: http://memorici.de
 
 ## Work experience ##
 
-### **2011--2012**: Software Engineer for VeryPositive, Riga ###
+### **2011 → 2012**: Software Engineer for VeryPositive, Riga ###
 
   - Performing Java and Android programming duties
 
-### **2011--2012**: Software Engineer for VeryPositive, Riga ### 
+### **2011 → 2012**: Software Engineer for VeryPositive, Riga ### 
   - Performing Erlang programming duties
 
-### **2009--2011**: Software Engineer at DSW, Riga for Banking systems ###
+### **2009 → 2011**: Software Engineer at DSW, Riga for Banking systems ###
 
   - Built in C\#.NET with extensive use of T-SQL
   - High load system operating on big data
   - Interconnection with legacy systems
   - Design and implementation of complex algorithms in stored procedures
 
-### **2008--2009**: Software Engineer at VeryPositive Software, Riga for KS Storage Management system ###
+### **2008 → 2009**: Software Engineer at VeryPositive Software, Riga for KS Storage Management system ###
 
   - ERP/Accounting solution
   - Component-based architecture
 
-### **2007--2008**: Software Engineer at VeryPositive Software, Riga for Professionali.ru ###
+### **2007 → 2008**: Software Engineer at VeryPositive Software, Riga for Professionali.ru ###
 
   - Built in PHP/MySQL
   - High load system architecture and optimization
