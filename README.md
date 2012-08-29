@@ -56,6 +56,9 @@ Task scheduler for managing tasks of high computing complexity
 on clusters of CUDA GPUs. Built in Erlang/OTP, is fault-tolerant and network topology
 independent. Supports virtual clusters.
 
+### Saloon ###
+Erlang/OTP rapid development web framework on top of Cowboy acceptor/HTTP server.
+
 ### Awesome-News ###
 Open source cloud notification engine built in Erlang/OTP. 
 Zero-configuration, extendible in any programming language, network topology independent 
