@@ -57,7 +57,7 @@ on clusters of CUDA GPUs. Built in Erlang/OTP, is fault-tolerant and network top
 independent. Supports virtual clusters.
 
 ### Saloon ###
-Erlang/OTP rapid development web framework on top of Cowboy acceptor/HTTP server.
+Erlang/OTP rapid development web framework built on top of Cowboy acceptor/HTTP server.
 
 ### Awesome-News ###
 Open source cloud notification engine built in Erlang/OTP. 
