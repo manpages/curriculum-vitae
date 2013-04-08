@@ -22,7 +22,7 @@ Home page: http://memorici.de
 
 ## Work experience ##
 
-### **2012 →  **:  Inbet, International (worked remotely)###
+### 2012 →:  Inbet, International (worked remotely)###
 
   - Erlang/Elixir programming
     - Implementation of distributed systems in Erlang/OTP and Elixir
