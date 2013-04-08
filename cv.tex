@@ -24,12 +24,12 @@
 \maketitle
 
 \section{Most used development tools}
-\cvcomputer{Languages}{C++, Erlang, Python, JS, Java, Sh}{}{}
-\cvcomputer{Data Stor.}{PgSQL, FissionKV, Riak, Mnesia}{}{}
+\cvcomputer{Languages}{C, Erlang, Scala, Ruby, JS, Sh}{}{}
+\cvcomputer{Data Stor.}{MySQL, PgSQL, Riak, Mnesia}{}{}
 \cvcomputer{Op. systems}{Arch Linux, FreeBSD}{}{}
-\cvcomputer{Documentation}{Edoc, Org-mode, Twiki, \LaTeX}{}{}
-\cvcomputer{Build systems}{CMake, GNU Make, Rebar, Ant}{}{}
-\cvcomputer{RCS}{Git, Mercurial, SVN}{}{}
+\cvcomputer{Doc. systems}{Edoc, Org-mode, Twiki, \LaTeX}{}{}
+\cvcomputer{Build systems}{CMake, GNU Make, Rebar, Sbt}{}{}
+\cvcomputer{RCS}{Git, Mercurial, Subversion}{}{}
 \cvcomputer{IDE}{VIM, Eclipse}{}{}
 \cvcomputer{WM}{Awesome}{}{}
 
@@ -39,6 +39,13 @@
 \cvlanguage{Latvian}{Intermediate}{}
 
 \section{Work experience}
+
+\cventry{2012--}{Senior Erlang Developer}{Inbet}{International (worked remotely)}{}{{Erlang/Elixir programming.}
+\begin{itemize}%
+\item Implementation of distributed systems in Erlang/OTP and Elixir
+\item Code reviews
+\item Application architecture
+\end{itemize}}
 
 \cventry{2011--2012}{Software Engineer}{VeryPositive}{Riga}{}{Java and Android programming.}
 
@@ -66,14 +73,15 @@
 \item Sphinx indexing
 \end{itemize}}
 
-\section{Recent individual projects (2012)}
-\cvline{Otpduler-Enterprise}{Task scheduler for managing tasks of high computing complexity 
-on clusters of CUDA GPUs. Built in Erlang/OTP, is fault-tolerant and network topology
-independent. Supports virtual clusters.}
-\cvline{Saloon}{Erlang/OTP rapid development web framework built on top of Cowboy acceptor/HTTP server.}
-\cvline{Awesome-News}{Open source cloud notification engine built in Erlang/OTP. 
-Zero-configuration, extendible in any programming language, network topology independent 
-solution that fits UNIX pipelining.}
+\section{Recent individual projects (2013)}
+\cvline{Dyntap}{My take on encrypted network stack implementation with dynamic routing and encryption.}
+\cvline{Saloon2}{Rapid development web framework built on top of Cowboy HTTP server re-written in Elixir.}
+\cvline{FUbbit}{Wrapper and deploy scripts for official RabbitMQ Erlang client that works well with rebar and Elixir.}
+
+\section{Recent contributions (2013)}
+\cvline{Ybot}{Added missing features and refactored IRC protocol implementation.}
+\cvline{WPT}{Implemented Erlang/Cowboy module in a HTTP benchmarking framework.}
+\cvline{Elixir}{Minor contributions to Elixir and some basic libraries.}
 
 \section{Recent competitions (2012)}
 \cvline{Spawnfest}{Team HINT, $3^{rd}$ place}
@@ -86,10 +94,10 @@ solution that fits UNIX pipelining.}
 \cvline{Programming}{\small \url{http://github.com/manpages}}
 \cvline{Math and CS}{Founder of ''M/CS Student Club of Riga''}
 \cvline{Music}{Progressive rock, Art rock}
-\cvline{Sports}{\small Hockey (NHL), StarCraft II (GSL, IPL)}
+\cvline{Sports}{\small Ice Hockey, StarCraft II}
 
 \section{Personal information}
-\cvline{Age}{22}
+\cvline{Age}{23}
 \cvline{Marital status}{single}
 
 \end{document}

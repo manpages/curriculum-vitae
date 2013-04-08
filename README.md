@@ -5,8 +5,8 @@ Home page: http://memorici.de
 
 ## Most used development tools ##
 
-  - Languages: C++, Erlang, Python, JS, Java, Sh
-  - Data Storages: PgSQL, Fission, Riak, Mnesia
+  - Languages: C, Erlang, Ruby, JS, Scala, Sh
+  - Data Storages: MySQL, PgSQL, Riak, Mnesia
   - Operating systems: Arch Linux, FreeBSD
   - Documentation: Edoc, Org-mode, Twiki, LaTeX
   - Build systems: CMake, GNU Make, Rebar, Ant
@@ -16,11 +16,18 @@ Home page: http://memorici.de
 
 ## Languages ##
 
-  - Russian: Mother Tongue
+  - Russian: Native
   - English: Fluent
   - Latvian: Intermediate
 
 ## Work experience ##
+
+### **2012 →  **:  Inbet, International (worked remotely)###
+
+  - Erlang/Elixir programming
+    - Implementation of distributed systems in Erlang/OTP and Elixir
+    - Code reviews
+    - Application architecture
 
 ### **2011 → 2012**: Software Engineer for VeryPositive, Riga ###
 
@@ -49,31 +56,37 @@ Home page: http://memorici.de
   - Statistical data algorithms
   - Sphinx indexing
 
-## Recent individual projects (2012) ##
+## Recent individual projects (2013) ##
 
-### Otpduler-Enterprise ###
+### Dyntap ###
+My take on network stack implementation with dynamic routing and encryption.
 
-Task scheduler for managing tasks of high computing complexity 
-on clusters of CUDA GPUs. Built in Erlang/OTP, is fault-tolerant and network topology
-independent. Supports virtual clusters.
+### Saloon2 ###
+Rapid development web framework built on top of Cowboy HTTP server re-written in Elixir.
 
-### Saloon ###
-Erlang/OTP rapid development web framework built on top of Cowboy acceptor/HTTP server.
+### Fubbit ###
+Wrapper and deploy scripts for official RabbitMQ Erlang client that works well with rebar and Elixir.
 
-### Awesome-News ###
-Open source cloud notification engine built in Erlang/OTP. 
-Zero-configuration, extendible in any programming language, network topology independent 
-solution that fits UNIX pipelining.
+## Recent contributions (2013) ##
+
+### Ybot ###
+Added missing features and refactored IRC protocol implementation.
+
+### WPT ###
+Implemented Erlang/Cowboy module in a HTTP benchmarking framework.
+
+### Elixir ###
+Minor bug-fixes in Elixir deployment and in some basic libraries.
 
 ## Recent competitions (2012) ##
 
-### ICFPC ###
-
-Team TBD, top 5 (after two rounds of competition).
-
 ### Spawnfest ###
 
-Team HINT, place yet unknown.
+Team HINT, 3rd place.
+
+### ICFPC ###
+
+Team TBD, top 25th place.
 
 ## Education ##
 
@@ -83,8 +96,8 @@ Team HINT, place yet unknown.
   - Programming: http://github.com/manpages
   - Math and CS: Founder of M/CS Student Club of Riga
   - Music: Progressive rock, Art rock
-  - Sports: Hockey (NHL), StarCraft II (GSL, IPL)
+  - Sports: Ice Hockey, StarCraft II 
 
 ## Personal information ##
-  - Age: 22
+  - Age: 23
   - Marital status: single
