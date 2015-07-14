@@ -1,12 +1,11 @@
 Jonns Mostovoys
 ===============
 
-CV: 
+CV:
 http://nn.lv/h8
 
-About me:
-  Hi, I'm Jonn — a software engineer with six years of industrial experience.
-I belive in “the right tool for the job”, hence — multiparadigm technologies 
-that allow strict reasoning about informational systems.  
-  
-I'm Happy to develop http://bex.io with Spawngrid.
+I’m known as Jonn Mostovoy. I write code and manage people for pure fun (and some money, but that’s a side effect).
+
+My interests include but are not limited by Discrete mathematics, Functional programming, Distributed systems, Remote team management, Science, Fiction, Science fiction, Interactive fiction, Making lists, Progressive rock, Ice hockey, StarCraft.
+
+I speak English, Russian and Latvian; currently learning Croatian.
