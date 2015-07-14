@@ -8,8 +8,8 @@
 
 \AtBeginDocument{\recomputelengths}
 
-\firstname{Jonns}
-\familyname{Mostovoys}
+\firstname{Jonn}
+\familyname{Mostovoy}
 
 \homepage{http://memorici.de}
 \photo[64pt]{jm.png}
@@ -24,90 +24,82 @@
 \maketitle
 
 \section{Most used development tools}
-\cvcomputer{Languages}{Elixir, Erlang, Ruby, JS, Sh, C}{}{}
-\cvcomputer{Data Stor.}{PgSQL, Riak}{}{}
-\cvcomputer{Op. systems}{Arch Linux}{}{}
-\cvcomputer{Doc. systems}{Heredocs, Edoc, Twiki, \LaTeX}{}{}
-\cvcomputer{Build systems}{GNU Make, Rebar}{}{}
-\cvcomputer{RCS}{Git, Mercurial}{}{}
-\cvcomputer{IDE}{VIM, Sublime Text 2, IntelliJ}{}{}
-\cvcomputer{WM}{Awesome}{}{}
+\cvcomputer{Languages}{Haskell, Erlang and Elixir}{}{}
+\cvcomputer{Storage}{PgSQL, Riak}{}{}
+\cvcomputer{Distro}{NixOS}{}{}
+\cvcomputer{Docs}{Haddoc, Edoc, \LaTeX}{}{}
+\cvcomputer{Build}{Nix, GNU Make, Cabal, Rebar}{}{}
+\cvcomputer{CI}{Hydra}{}{}
+\cvcomputer{RCS}{Git, Darcs}{}{}
+\cvcomputer{IDE}{Emacs (Haskell/Org-Mode), VIM}{}{}
+\cvcomputer{WM}{XMonad}{}{}
 
 \section{Languages}
 \cvlanguage{Russian}{Native}{}
 \cvlanguage{English}{Fluent}{}
 \cvlanguage{Latvian}{Intermediate}{}
+\cvlanguage{Croatian}{Basic}{}
 
 \section{Work experience}
 
-\cventry{2013--}{Software Engineer}{Spawngrid}{Vancouver, BC (working remotely)}{}{{Bex.io. Duties:}
-\begin{itemize}
-\item Integrating project with an automated deployment system
-\item Automatization of initial deployment using hypervisor hosts
-\item Development and implementation of integrity validation algorithms
-\item Implementation of distributed system components in Elixir
-\end{itemize}
-}
-
-\cventry{2012--2013}{Senior Erlang Developer}{Inbet}{International (worked remotely)}{}{{Erlang/Elixir programming.}
+\cventry{2007--2009 2010--2012}{Software Engineer}{VeryPositive Software}{Riga}{}{{}%
 \begin{itemize}%
-\item Implementation of distributed systems in Erlang/OTP and Elixir
-\item Code reviews
-\item Application architecture
+\item PHP/MySQL web-development — we wrote professionali.ru
+\item Java — Android development (topping freelancer.com rankings)
 \end{itemize}}
 
-\cventry{2011--2012}{Software Engineer}{VeryPositive}{Riga}{}{Java and Android programming.}
-
-\cventry{2011--2012}{Software Engineer}{VeryPositive}{Riga}{}{Erlang programming.}
-
-\cventry{2009--2011}{Software Engineer}{DSW}{Riga}{}{Banking systems.{}%
+\cventry{2009--2010}{Software Engineer}{DSW}{Riga}{}{{}%
 \begin{itemize}%
-\item Built in C\#.NET with extensive use of T-SQL
-\item High load system operating on big data
-\item Interconnection with legacy systems
-\item Design and implementation of complex algorithms in stored procedures
+\item C\#, T-SQL — banking software
+\item Visual FoxPro code rewrite in C\#, sending tarballs, pain, suffering
 \end{itemize}}
 
-\cventry{2008--2009}{Software Engineer}{VeryPositive Software}{Riga}{}{KS Storage Management system.{}%
+\cventry{2012}{3D-design and open-source programming}{Self-employed}{Riga}{}{{}%
 \begin{itemize}%
-\item ERP/Accounting solution
-\item Component-based architecture
+\item Blender — making 3D stuff then rendering it
+\item Erlang — writing FOSS libraries and applications
 \end{itemize}}
 
-\cventry{2007--2008}{Software Engineer}{VeryPositive Software}{Riga}{}{Professionali.ru.{}%
+\cventry{2012--2013}{Senior Software Engineer / Consultant}{Inbet}{International (remote)}{}{{}%
 \begin{itemize}%
-\item Built in PHP/MySQL
-\item High load system architecture and optimization
-\item Statistical data algorithms
-\item Sphinx indexing
+\item Discrete modelling — proving facts about code model
+\item Erlang — team migration from node.js, implementing betting system
 \end{itemize}}
 
-\section{Recent individual projects (2013)}
-\cvline{Dyntap}{My take on encrypted network stack implementation with dynamic routing and encryption.}
-\cvline{Saloon2}{Rapid development web framework built on top of Cowboy HTTP server re-written in Elixir.}
-\cvline{FUbbit}{Wrapper and deploy scripts for official RabbitMQ Erlang client that works well with rebar and Elixir.}
+\cventry{2013--2014}{Software Engineer}{Bex.io / Spawngrid}{Vancouver BC (remote)}{}{{}%
+\begin{itemize}%
+\item Python, C++ — 3rd party library patching and BIP implementations
+\item Elixir, PgSQL — ledger, bitcoind interaction
+\end{itemize}}
 
-\section{Recent contributions (2013)}
-\cvline{Elixir}{Original pretty printing implementation based on Hughes-Wadler document algebra.}
-\cvline{Ecolines}{Reported serious vulnerability in Ecolines ticket booking service that got confirmed.}
-\cvline{Ybot}{Added missing features and refactored IRC protocol implementation.}
-\cvline{WPT}{Implemented Erlang/Cowboy module in a HTTP benchmarking framework.}
+\cventry{2014--2015}{Project Manager / Frontend Teamlead}{???}{Miami FL (remote)}{}{{}%
+\begin{itemize}%
+\item JavaScript — Webpack, React, Jsverify
+\item Erlang — digging awful legacy code
+\end{itemize}}
 
-\section{Recent competitions (2012)}
-\cvline{Spawnfest}{Team HINT, $3^{rd}$ place}
-\cvline{ICFPC}{Team TBD, $25^{th}$ place}
+\section{Stuff I'm Proud Of}
+\cvline{ICFPC}{Our team is one of the best — $4^{th}$ place last year, always in top-30.}
+\cvline{Spawnfest}{In 2012, we wrote Hoogle for Erlang's typespecs, getting $3^{rd}$ place. If I wasn't a Uni drop-out, I'd write a paper about it or something.}
+\cvline{Self-taught maths}{I've learned calculus and linear mathematics by myself, but what I really care about is discrete maths — love modal logic, category theory and type theory. Currently digging HoTT.}
+\cvline{Self-taught Haskell}{Haskell is a pretty strange language learning it only with LYAH and RWH is something to be proud of, in my opinion.}
+\cvline{Contributions to Moxie's Convergence}{CA system is broken. Moxie fixed it. Nobody cared. But I was there when hot stuff was happening.}
+\cvline{Contributions to Elixir stdlib}{Original pretty printing implementation based on Hughes-Wadler document algebra.}
+\cvline{Pwning buses}{Reported serious vulnerability in Ecolines ticket booking service that got confirmed. Reported vulnerability in on-board per-passenger computer middleware.}
+\cvline{Starting Business}{In July 2015 I've started my own business, targeting open-source writing and FP consulting.}
 
 \section{Education}
 \cventry{2008}{Secondary School \#22}{Riga}{}{}{}
 
 \section{Interests}
-\cvline{Programming}{\small \url{http://github.com/manpages}}
-\cvline{Math and CS}{Founder of ''M/CS Student Club of Riga''}
+\cvline{Programming}{\small \url{http://github.com/manpages} (my github is a huge code dump, good luck finding pearls there!)}
+\cvline{Math and CS}{Reading papers about distributed systems and Haskell stuff}
 \cvline{Music}{Progressive rock, Art rock}
 \cvline{Sports}{\small Ice Hockey, StarCraft II}
+\cvline{Other}{\small Tabletop RPG, Science Fiction, Interactive Fiction}
 
 \section{Personal information}
-\cvline{Age}{24}
+\cvline{Age}{25}
 \cvline{Marital status}{commited relationship}
 
 \end{document}
